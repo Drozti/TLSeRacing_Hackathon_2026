@@ -1,0 +1,10 @@
+__pycache__/
+.Python
+build/
+.cache
+
+.env
+.envrc
+.venv
+env/
+venv/
