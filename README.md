@@ -54,11 +54,6 @@ Develop a fast and reliable path-planning module for a driverless Formula Studen
 - **Algorithm complexity** - Balance sophistication with performance
 - **Driving viability** - Ensure smooth lines and stable cornering
 
-### Quick Start
-```bash
-cd Hackathon_PathPlanning
-python -m fsd_path_planning.demo
-```
 
 ### Baseline
 A "dumb" planner is provided that only drives straight. Your task is to replace or enhance it with intelligent path planning.
