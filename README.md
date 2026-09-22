@@ -22,11 +22,12 @@ Teams can participate in one or all modalities. Each challenge is designed to te
 ```
 TLSRacing_Hackathon/
 │
-├── Hackathon_PathPlanning/
-│   ├── fsd_path_planning/
-│   │   ├── full_pipeline/
-│   │   ├── calculate_path/
-│   │   └── config.py
+├── Hackathon-Path_Planning/
+│   ├── src/
+│   │   ├── planner.py
+│   │   ├── track.py
+│   │   └── visualizer.py
+│   ├── tracks_data/
 │   └── README.md
 │
 ├── Hackathon_Estimation/
